@@ -1,0 +1,39 @@
+{
+  "name": "ng2-bootstrap-lodash-stack",
+  "version": "1.0.0",
+  "description": "Dependencies for running Angular 2 with Bootstrap and lodash.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/colinbate/ng2-bootstrap-lodash-stack.git"
+  },
+  "keywords": [
+    "stack",
+    "angular",
+    "angular2",
+    "ng",
+    "ng2",
+    "bootstrap",
+    "dependencies",
+    "lodash"
+  ],
+  "author": "Colin Bate <colin@colinbate.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colinbate/brunch-ng2-less-bootstrap-deps/issues"
+  },
+  "homepage": "https://github.com/colinbate/brunch-ng2-less-bootstrap-deps#readme",
+  "dependencies": {
+    "angular2": "2.0.0-beta.1",
+    "bootstrap": "^3.3.6",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "es7-reflect-metadata": "^1.4.0",
+    "lodash": "^4.3.0",
+    "ng2-bootstrap": "^0.53.0",
+    "rxjs": "5.0.0-beta.0",
+    "zone.js": "0.5.10"
+  }
+}
